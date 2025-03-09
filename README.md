@@ -1,5 +1,7 @@
-# Breeze
+# Breeze V1
 Author: Sean Kelley
+
+NOTE: This is the original build of Breeze and it has since been updated. You can see the current version here: https://github.com/seannkelleyy/Breeze
 
 Breeze is a Budgeting App that allows users to create new budgets by adding expenses and categories. I built it to showcase my full stack development skills as well as practice. 
 

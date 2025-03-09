@@ -1,0 +1,12 @@
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/bin/Debug/net8.0/Breeze.Domain.deps.json
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/bin/Debug/net8.0/Breeze.Domain.dll
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/bin/Debug/net8.0/Breeze.Domain.pdb
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/obj/Debug/net8.0/Breeze.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/obj/Debug/net8.0/Breeze.Domain.AssemblyInfoInputs.cache
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/obj/Debug/net8.0/Breeze.Domain.AssemblyInfo.cs
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/obj/Debug/net8.0/Breeze.Domain.csproj.CoreCompileInputs.cache
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/obj/Debug/net8.0/Breeze.Domain.sourcelink.json
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/obj/Debug/net8.0/Breeze.Domain.dll
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/obj/Debug/net8.0/refint/Breeze.Domain.dll
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/obj/Debug/net8.0/Breeze.Domain.pdb
+/Users/seankelley/Development/Projects/Breeze/Breeze.Domain/obj/Debug/net8.0/ref/Breeze.Domain.dll

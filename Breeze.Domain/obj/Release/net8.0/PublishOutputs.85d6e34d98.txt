@@ -1,0 +1,3 @@
+/Users/seankelley/Development/Projects/Breeze/publish/Breeze.Domain.dll
+/Users/seankelley/Development/Projects/Breeze/publish/Breeze.Domain.deps.json
+/Users/seankelley/Development/Projects/Breeze/publish/Breeze.Domain.pdb

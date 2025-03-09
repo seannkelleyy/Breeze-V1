@@ -1,0 +1,9 @@
+/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/bin/Debug/Breeze.Sql.dacpac
+/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/bin/Debug/Breeze.Sql.dll
+/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/bin/Debug/Breeze.Sql.pdb
+/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/obj/Debug/Model.xml
+/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/obj/Debug/refactor.xml
+/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/obj/Debug/postdeploy.sql
+/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/obj/Debug/predeploy.sql
+/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/obj/Debug/Breeze.Sql.dll
+/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/obj/Debug/Breeze.Sql.pdb

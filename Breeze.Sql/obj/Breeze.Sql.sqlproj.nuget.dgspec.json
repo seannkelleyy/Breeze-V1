@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/Breeze.Sql.sqlproj": {}
+  },
+  "projects": {
+    "/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/Breeze.Sql.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/Breeze.Sql.sqlproj",
+        "projectName": "Breeze.Sql",
+        "projectPath": "/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/Breeze.Sql.sqlproj",
+        "packagesPath": "/Users/seankelley/.nuget/packages/",
+        "outputPath": "/Users/seankelley/Development/Projects/Breeze/Breeze.Sql/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/seankelley/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
